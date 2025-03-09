@@ -1,8 +1,10 @@
 ## Hi there I'm Sigrid👋
-- 🔭 I’m currently working as a Fronent developer and Graphic designer
-- 🌱 I’m also currently studying Frontend development at Noroff
+I’m currently working as a Fronent developer and Graphic designer and studying Frontend development at Noroff
 
-![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
+
+
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
