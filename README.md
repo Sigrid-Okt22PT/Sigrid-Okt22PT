@@ -1,5 +1,20 @@
-## Hi there I'm Sigrid👋
-I’m currently working as a Fronent developer and Graphic designer and studying Frontend development at Noroff
+## Hi there, I'm Sigrid 👋
+
+I'm currently a Frontend Developer and Graphic Designer, pursuing a degree in Frontend Development at Noroff. Passionate about creating visually appealing and user-friendly web experiences, I strive to combine design and development to bring innovative ideas to life.
+
+### Hobbies
+- 🥾 **Hiking**: Exploring new trails and immersing myself in nature.
+- 🐕 **My Dog**: Spending quality time and adventures with my furry friend.
+- ⛷️ **Skiing**: Hitting the slopes and enjoying the thrill of winter sports.
+- 🏂 **Snowboarding**: Carving through the snow and embracing the adrenaline rush.
+- 🌳 **Everything Nature**: From forests to mountains, I love being surrounded by the beauty of nature.
+
+### Fun Facts
+-  😅 A fun fact about me is that I really hate writing fun facts about myself!
+
+Feel free to explore my projects and connect with me!
+
+[![GitHub followers](https://img.shields.io/github/followers/Sigrid-Okt22PT?label=Follow&style=social)](https://github.com/Sigrid-Okt22PT)
 
 
 ## Languages
